@@ -8,12 +8,12 @@ da sua localização e dos intens que deseja entregar. Toda aplicação funciona
 As tecnologias usadas foram:
 
 Front-End:
-  -React
+  React
 
 Back-End:
-  -Knex
-  -Sqlite
+  Knex, 
+  Sqlite
   
 Mobile:
-  -React Native
+  React Native
   
