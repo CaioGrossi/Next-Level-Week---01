@@ -7,15 +7,8 @@ da sua localização e dos intens que deseja entregar. Toda aplicação funciona
 
 ## Estudado
 
-* Typescript
-
-### Front-End
 * ReactJS
-
-### Back-End
 * Knex
 * Sqlite
-  
-### Mobile
 * React Native
-  
+* Typescript
