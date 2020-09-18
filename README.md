@@ -1,4 +1,4 @@
-# Next Leve Week - 01
+# Ecoleta
 
 Este projeto feito junto a Rocketset tem como assunto principal a coleta seletiva. A aplicação consiste no cadastro de pontos de
 coleta e na busca filtrada pelos pontos de coleta cadastrados. O dono do estabelecimento pode cadastrar seu ponto informando 
